@@ -1,0 +1,14 @@
+body {
+    text-align: center;
+    background-image: url("https://i.pinimg.com/474x/af/10/09/af10093f2d6e75e574313f3a47816244.jpg");
+}
+h1 {
+    color:rgb(135, 67, 67);
+    background-color: rgba(248, 230, 218, 0.806);
+    font-family: 'Gloock', serif;
+}
+p {
+    color: rgb(165, 100, 100);
+    background-color: rgba(248, 234, 218, 0.502);
+    font-family: 'Mynerve', cursive;
+}
